@@ -1,0 +1,8 @@
+*.pyc
+.idea/
+*.ckpt
+*.index
+*.pb
+*.meta
+data/
+raw.md
